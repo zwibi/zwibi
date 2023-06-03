@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zwibi
 - 👀 I’m interested in 
-- 🌱 I’m currently learning visual basic for application and i'm looking for solutions to connect smart home devices (Zigbee) to my iobroker
+- 🌱 I’m currently learning visual basic for application and i'm looking for solutions to connect smart home devices (Zigbee) for iobroker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
